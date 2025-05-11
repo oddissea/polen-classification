@@ -1,0 +1,11 @@
+Modelo,Data Aug.,Test Acc.,Arch.,Parámetros,Media Pesos,Pesos ≈ 0,Tiempo (s)
+NET1_normal,No,0.8444,1L-FC,10000,0.0312,60.86%,—
+NET1_aug,Sí,0.7917,1L-FC,10000,0.0259,51.06%,—
+CNN_base_normal,No,0.9417,CNN,23184,0.0061,28.30%,—
+CNN_variant1_normal,No,0.9583,CNN,92448,-0.0041,11.58%,—
+CNN_variant2_normal,No,0.9417,CNN,31632,-0.0011,10.49%,—
+CNN_base_aug,Sí,0.9472,CNN,23184,0.0121,22.47%,—
+CNN_variant1_aug,Sí,0.9583,CNN,92448,-0.0031,11.33%,—
+CNN_variant2_aug,Sí,0.9389,CNN,31632,-0.0025,10.91%,—
+NET2_normal,No,0.9194,MLP,1280000,-0.0022,76.15%,—
+NET2_aug,Sí,0.9306,MLP,1280000,-0.0020,68.51%,—

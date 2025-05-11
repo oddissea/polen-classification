@@ -1,0 +1,2 @@
+Modelo,Capa,Num_Filtros,Kunzea_Activacion_Media,Lepto_Activacion_Media,Diferencia_Media,Clase_Mayor_Activacion,Ratio_Activacion_Clases,Num_Filtros_Kunzea,Num_Filtros_Lepto,Ratio_Filtros,Top_Filtros_Discriminativos
+CNN_base_aug,1,32,-0.013866916298866272,-0.016896039247512817,0.02472849376499653,Kunzea,0.8207199437572061,15,17,15:17,"[20, 15, 26, 27, 29]"

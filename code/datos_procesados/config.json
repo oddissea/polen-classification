@@ -1,0 +1,17 @@
+{
+    "img_size": 100,
+    "batch_size": 32,
+    "val_split": 0.2,
+    "transforms_config": {
+        "img_size": 100,
+        "rotation_range": 60,
+        "brightness_range": 0.05,
+        "shift_range": 0.03
+    },
+    "train_size": 1680,
+    "val_size": 360,
+    "clases": {
+        "0": "Kunzea",
+        "1": "Lepto"
+    }
+}
